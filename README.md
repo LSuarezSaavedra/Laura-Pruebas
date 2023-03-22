@@ -1,2 +1,2 @@
-# Laura-Pruebas
-Pruebas modulo 2 laura 
+Este proyecto es una prueba de como crear y clonar un repositorio de prueba
+
